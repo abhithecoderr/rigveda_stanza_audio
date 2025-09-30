@@ -1,0 +1,28 @@
+{
+  "mandala": 1,
+  "hymn": 99,
+  "total_stanzas_created": 1,
+  "detected_non_silent_lines": [
+    {
+      "line_num": 1,
+      "start_ms": 655,
+      "end_ms": 7888,
+      "duration_ms": 7233
+    },
+    {
+      "line_num": 2,
+      "start_ms": 8943,
+      "end_ms": 16915,
+      "duration_ms": 7972
+    }
+  ],
+  "stanzas": [
+    {
+      "stanza_num": 1,
+      "start_ms": 655,
+      "end_ms": 17415,
+      "lines_used": 2,
+      "calculated_buffer_ms": 500
+    }
+  ]
+}

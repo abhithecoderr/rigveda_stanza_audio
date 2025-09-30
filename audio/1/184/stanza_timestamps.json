@@ -1,0 +1,123 @@
+{
+  "mandala": 1,
+  "hymn": 184,
+  "total_stanzas_created": 6,
+  "detected_non_silent_lines": [
+    {
+      "line_num": 1,
+      "start_ms": 534,
+      "end_ms": 8117,
+      "duration_ms": 7583
+    },
+    {
+      "line_num": 2,
+      "start_ms": 9078,
+      "end_ms": 16353,
+      "duration_ms": 7275
+    },
+    {
+      "line_num": 3,
+      "start_ms": 17426,
+      "end_ms": 24811,
+      "duration_ms": 7385
+    },
+    {
+      "line_num": 4,
+      "start_ms": 25857,
+      "end_ms": 34973,
+      "duration_ms": 9116
+    },
+    {
+      "line_num": 5,
+      "start_ms": 36130,
+      "end_ms": 43793,
+      "duration_ms": 7663
+    },
+    {
+      "line_num": 6,
+      "start_ms": 44925,
+      "end_ms": 53183,
+      "duration_ms": 8258
+    },
+    {
+      "line_num": 7,
+      "start_ms": 54288,
+      "end_ms": 62587,
+      "duration_ms": 8299
+    },
+    {
+      "line_num": 8,
+      "start_ms": 63661,
+      "end_ms": 71657,
+      "duration_ms": 7996
+    },
+    {
+      "line_num": 9,
+      "start_ms": 72878,
+      "end_ms": 79969,
+      "duration_ms": 7091
+    },
+    {
+      "line_num": 10,
+      "start_ms": 81057,
+      "end_ms": 88310,
+      "duration_ms": 7253
+    },
+    {
+      "line_num": 11,
+      "start_ms": 89726,
+      "end_ms": 96923,
+      "duration_ms": 7197
+    },
+    {
+      "line_num": 12,
+      "start_ms": 98077,
+      "end_ms": 106312,
+      "duration_ms": 8235
+    }
+  ],
+  "stanzas": [
+    {
+      "stanza_num": 1,
+      "start_ms": 534,
+      "end_ms": 17326,
+      "lines_used": 2,
+      "calculated_buffer_ms": 973
+    },
+    {
+      "stanza_num": 2,
+      "start_ms": 17426,
+      "end_ms": 35973,
+      "lines_used": 2,
+      "calculated_buffer_ms": 1000
+    },
+    {
+      "stanza_num": 3,
+      "start_ms": 36130,
+      "end_ms": 54183,
+      "lines_used": 2,
+      "calculated_buffer_ms": 1000
+    },
+    {
+      "stanza_num": 4,
+      "start_ms": 54288,
+      "end_ms": 72657,
+      "lines_used": 2,
+      "calculated_buffer_ms": 1000
+    },
+    {
+      "stanza_num": 5,
+      "start_ms": 72878,
+      "end_ms": 89310,
+      "lines_used": 2,
+      "calculated_buffer_ms": 1000
+    },
+    {
+      "stanza_num": 6,
+      "start_ms": 89726,
+      "end_ms": 106812,
+      "lines_used": 2,
+      "calculated_buffer_ms": 500
+    }
+  ]
+}
